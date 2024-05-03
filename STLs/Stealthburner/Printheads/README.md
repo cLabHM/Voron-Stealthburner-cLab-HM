@@ -1,3 +1,7 @@
+# Currently in use is the Phaetus Dragon
+
+[PHAETUS X VORON HOTEND HF](https://www.phaetus.com/products/phaetus-x-voron-hotend-hf)
+
 # Printheads for Stealthburner.
 
 Choose files containing ***front*** based on your hotend and ***rear_cw1*** / ***rear_cw2*** based on whether you're using the original Clockwork (CW1) or the new Clockwork2 (CW2) extruder.
