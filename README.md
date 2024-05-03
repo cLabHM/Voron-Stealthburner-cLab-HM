@@ -1,3 +1,31 @@
-# Voron Stealthburner
+# Voron Trident c.Lab HM (Stealthburner Portion)
+The [Voron Design Trident](https://github.com/VoronDesign/Voron-Trident) 250mm with all the mods currently installed and running in the Tridents of the cLab
+For additional Documentation refer to the [Voron Design Website](https://vorondesign.com/voron_trident)
+
+Since our Printers are actively being improved and maintained since fixable design weakpoints show up regulary because of improper use by members or just wear and tear. Changes and additional mods made to our printers will make it to this repo eventually.
+
+- Motherboard: [BTT Octopus](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-V1.0/) with [BTT TMC2209 Stepper Drivers](https://github.com/bigtreetech/BIGTREETECH-TMC2209-V1.2/)
+- Toolhead: [Voron Stealthburner](https://github.com/VoronDesign/Voron-Stealthburner)
+- Hotend: [PHAETUS X VORON HOTEND HF](https://www.phaetus.com/products/phaetus-x-voron-hotend-hf)
+- Nozzles:
+    - [Stock Nozzle included with the Phaetus Dragon](https://www.phaetus.com/products/plated-copper-nozzle?variant=45199217066261)
+    - [Bondtech Coated Brass CHT 0.4](https://www.bondtech.se/product/bondtech-cht-coated-brass-nozzle/)
+
+# Currently Installed Mods
+
+- [BTT EBB SB2209 CAN Bus](https://github.com/bigtreetech/EBB) (with [BTT EBB U2C Board](https://github.com/bigtreetech/U2C) and [Mount by AugustBackhaus](https://www.printables.com/model/804326-btt-u2c-mount/))
+- [Printable Snap Latches for 2020 extrusion (3mm Version) by richardjm](https://mods.vorondesign.com/details/9Rdnf5vD2oaJLmR7BpAuQ)
+- [Removable Doors ElPoPo](https://mods.vorondesign.com/details/WqhhKrXksAZ4omhHS1RY4Q)
+- [Back blanking plate (4mm L Version) by richardjm](https://mods.vorondesign.com/details/JpyUj2eynCA10xcD4UEdow)
+- [Voron Tap V2 by Chaotic Lab](https://github.com/Chaoticlab/CNC-Tap-for-Voron/)
+- [Fabaccess Integration for Klipper](https://github.com/Tengo10/fabaccess_klipper)
+- [Knomi V2](https://github.com/bigtreetech/KNOMI) (for one of them at least)
+
+# Self made Mods designed by the c.Lab Team
+
+- Heatsink for Extruder (based on 40x40x11mm Heatsinks)
+- Modified the Clockwork2 to accept the thinner version of the extruder Lever, because of higher durability
+
+# Original README Voron Stealthburner
 
 ![Voron_Stealthburner](Images/Voron_Stealthburner.JPG)
