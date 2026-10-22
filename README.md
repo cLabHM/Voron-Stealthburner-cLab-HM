@@ -16,6 +16,7 @@ Since our Printers are actively being improved and maintained since fixable desi
 # Currently Installed Mods
 
 - [BTT EBB SB2209 CAN Bus](https://github.com/bigtreetech/EBB) (with [BTT EBB U2C Board](https://github.com/bigtreetech/U2C) and [Mount by AugustBackhaus](https://www.printables.com/model/804326-btt-u2c-mount/))
+- [BTT EBB SB2209 USB Board](https://github.com/bigtreetech/EBB) -> This is the current varient, being installed, CAN Board are only in Printers not upgraded yet
 - [Printable Snap Latches for 2020 extrusion (3mm Version) by richardjm](https://mods.vorondesign.com/details/9Rdnf5vD2oaJLmR7BpAuQ)
 - [Removable Doors ElPoPo](https://mods.vorondesign.com/details/WqhhKrXksAZ4omhHS1RY4Q)
 - [Back blanking plate (4mm L Version) by richardjm](https://mods.vorondesign.com/details/JpyUj2eynCA10xcD4UEdow)
